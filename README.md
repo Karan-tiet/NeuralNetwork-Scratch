@@ -1,4 +1,4 @@
 # NeuralNetwork-Scratch
-made  a simple 3 layer nn from scratch
+made  a simple 2 layer nn from scratch
 
 
